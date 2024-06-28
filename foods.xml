@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<foods>
+    <food>
+        <link>https://github.com/trabalhos-etec/festa-junina-imagens/blob/main/imgs/pamonha.png?raw=true</link>
+        <name>Pamonha 🌽</name>
+        <description>O milho é a prova viva de que se fazer com jeitinho, pode se transformar em tudo, esta delícia é um dos alimentos mais tradicionais da época.</description>
+    </food>
+
+    <food>
+        <link>https://github.com/trabalhos-etec/festa-junina-imagens/blob/main/imgs/bolodefub%C3%A1.png?raw=true</link>
+        <name>Bolo de Fubá 🎂</name>
+        <description>O bolo que prova que o milho pode ser transformado em uma delícia macia e fofa, perfeita para
+        acompanhar um cafezinho.</description>
+    </food>
+    
+    <food>
+        <link>https://github.com/trabalhos-etec/festa-junina-imagens/blob/main/imgs/cocada.png?raw=true</link>
+        <name>Cocada 🥥</name>
+        <description>Todos recusam na primeira vista, mas no final da festa não sobra um.</description>
+    </food>
+
+
+    <food>
+        <link>https://github.com/trabalhos-etec/festa-junina-imagens/blob/main/imgs/pa%C3%A7oca.jpg?raw=true</link>
+        <name>Paçoca 🥜</name>
+        <description>Esse doce de amendoim é a prova de que o auto controle não existe.</description>
+    </food>
+
+    <food>
+        <link>https://github.com/trabalhos-etec/festa-junina-imagens/blob/main/imgs/ma%C3%A7%C3%A3.png?raw=true</link>
+        <name>Maçã do Amor 🍎</name>
+        <description>Assim como o amor, esse doce feito de maçã é pegajoso e açucarado.</description>
+    </food>
+
+    <food>
+        <link>https://github.com/trabalhos-etec/festa-junina-imagens/blob/main/imgs/quent%C3%A3o.png?raw=true</link>
+        <name>Quentão 🍵</name>
+        <description>A bebida que te aquece até o coração, com um toque especial de gengibre e amor!</description>
+    </food>
+
+</foods>
